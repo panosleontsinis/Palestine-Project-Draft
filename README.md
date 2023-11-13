@@ -8,15 +8,15 @@ My key source of inspiration emerged from the BBC News coverage online
 
 # Mechanics  
 
-Users can follow the video guided by the narration.
+Users can follow the video guided by the narration. Comments section will create areas of discussion where the project leader can interact with the audiencde. Timestamps on Youtube could allow users to revisit areas of the video.
 
 # Aims  
 
-The main aim of the project is to spread awareness about the Israel- Palestine conflict.
+The main aim of the project is to spread awareness about the Israel- Palestine conflict. Other benefits arise such as spreading accurate information on such a sensitive topic.
 
 # Aesthetics
 
-A Yotube Video should be produced
+A Yotube Video should be produced narrating the led up to the Israeli-Palestine conflict to this date.
 
 Examples of similar video ideas:
 1. https://www.youtube.com/watch?v=7YIM0BKQi9c
@@ -25,10 +25,11 @@ Examples of similar video ideas:
 
 # Technology 
 
-Allocate time and resources editing and producing a first draft for the project
+Allocate time and resources editing and producing a first draft for the project.
+1. Premier Pro experience
+2. YouTube Studio
 
 # Wireframes 
 ![Palestinians Expelled](https://github.com/panosleontsinis/interface-narratives1/assets/123083154/7965f4db-6233-4cd8-932e-32d6f62f9d6d)
-![Human Cost of Conflict](https://cdn.statcdn.com/Infographic/images/normal/16516.jpeg)
-
-
+![20 years of talks](https://s3.amazonaws.com/VP2/visuals/en/d62fb949a6f490f27043bf6bc9111bae.jpg?2015)
+![Growth of Palestine](https://cdn.statcdn.com/Infographic/images/normal/20645.jpeg)
