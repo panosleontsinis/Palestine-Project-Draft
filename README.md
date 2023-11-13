@@ -3,19 +3,26 @@ This project revolves around exposing the inequalites and exploitation of Palest
 
 # Theme  
 
-The key concept of this project is to gather visual data(form of videos) and group into a short video clip demonstrating the scale of the chaos in Gaza.
-Key source of inspiration emerged from the BBC News coverage online 
+The key concept of this project is to gather visual data (videos and other types of footage) and reorganize it into a narrative informative video about the current injustices and chaos in Gaza.
+My key source of inspiration emerged from the BBC News coverage online 
 
 # Mechanics  
 
 Users can follow the video guided by the narration.
+
 # Aims  
 
 The main aim of the project is to spread awareness about the Israel- Palestine conflict.
+
 # Aesthetics
 
 A Yotube Video should be produced
+
+Examples of similar inspirations:
 https://www.youtube.com/watch?v=7YIM0BKQi9c
+https://www.youtube.com/watch?v=9scGFj7zp5w
+https://www.youtube.com/watch?v=sR0DsXH0bT4
+
 # Technology 
 
 Allocate time and resources editing and producing a first draft for the project
