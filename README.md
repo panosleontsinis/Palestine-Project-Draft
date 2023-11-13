@@ -16,7 +16,7 @@ The main aim of the project is to spread awareness about the Israel- Palestine c
 
 # Aesthetics
 
-A Yotube Video should be produced narrating the led up to the Israeli-Palestine conflict to this date.
+A Yotube Video should be produced narrating the led up to the Israeli-Palestine conflict up to the current date.
 
 Examples of similar video ideas:
 1. https://www.youtube.com/watch?v=7YIM0BKQi9c
