@@ -21,7 +21,6 @@ https://www.youtube.com/watch?v=7YIM0BKQi9c
 Allocate time and resources editing and producing a first draft for the project
 
 # Wireframes 
-![image](https://github.com/panosleontsinis/interface-narratives1/assets/123083154/7965f4db-6233-4cd8-932e-32d6f62f9d6d)
+![Palestinians Expelled](https://github.com/panosleontsinis/interface-narratives1/assets/123083154/7965f4db-6233-4cd8-932e-32d6f62f9d6d)
 
-![Title of the image](image.jpg)
-![Title of another image](image.jpg)
+
