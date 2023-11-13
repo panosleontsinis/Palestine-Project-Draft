@@ -4,7 +4,7 @@ This project revolves around exposing the inequalites and exploitation of Palest
 # Theme  
 
 The key concept of this project is to gather visual data (videos and other types of footage) and reorganize it into a narrative informative video about the current injustices and chaos in Gaza.
-My key source of inspiration emerged from the BBC News coverage online 
+My key source of inspiration emerged from the BBC News coverage online and other news outlets broadcasts on the Israeli-Palestinian conflict.
 
 # Mechanics  
 
