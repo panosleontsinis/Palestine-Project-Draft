@@ -29,6 +29,6 @@ Allocate time and resources editing and producing a first draft for the project
 
 # Wireframes 
 ![Palestinians Expelled](https://github.com/panosleontsinis/interface-narratives1/assets/123083154/7965f4db-6233-4cd8-932e-32d6f62f9d6d)
-![Human Cost of Conflict]((https://cdn.statcdn.com/Infographic/images/normal/16516.jpeg)
+![Human Cost of Conflict](https://cdn.statcdn.com/Infographic/images/normal/16516.jpeg)
 
 
