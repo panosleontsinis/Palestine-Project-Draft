@@ -1,4 +1,4 @@
-# [Palestine Project]
+# Palestine Project
 This project revolves around exposing the inequalites and exploitation of Palestinian people's human rights and land.
 
 # Theme  
