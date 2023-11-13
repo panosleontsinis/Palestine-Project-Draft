@@ -1,5 +1,5 @@
 # Palestine Project
-This project revolves around exposing the inequalites and exploitation of Palestinian people's human rights and land.
+This project revolves around exposing the inequalites and exploitation of Palestinian people's human rights and land over recent years.
 
 # Theme  
 
