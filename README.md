@@ -1,4 +1,4 @@
-# Palestine Project
+# Israel-Palestine Project
 This project revolves around exposing the inequalites and exploitation of Palestinian people's human rights and land over recent years.
 
 # Theme  
@@ -28,9 +28,10 @@ Interactive aspects of my project vary from:
 A Yotube Video should be produced narrating the led up to the Israeli-Palestine conflict up to the current date.
 
 Examples of similar video ideas:
-1. https://www.youtube.com/watch?v=7YIM0BKQi9c
-2. https://www.youtube.com/watch?v=9scGFj7zp5w
-3. https://www.youtube.com/watch?v=sR0DsXH0bT4
+1. https://www.journeyman.tv/film/1505
+2. https://www.youtube.com/watch?v=iRYZjOuUnlU
+3. https://www.youtube.com/watch?v=9scGFj7zp5w
+4. https://www.youtube.com/watch?v=sR0DsXH0bT4
 
 # Technology 
 
@@ -39,7 +40,7 @@ Platforms used:
 1. Premier Pro experience
 2. YouTube Studio
 
-# Wireframes 
+# Wireframes (Draft Material)
 ![Palestinians Expelled](https://github.com/panosleontsinis/interface-narratives1/assets/123083154/7965f4db-6233-4cd8-932e-32d6f62f9d6d)
 ![20 years of talks](https://s3.amazonaws.com/VP2/visuals/en/d62fb949a6f490f27043bf6bc9111bae.jpg?2015)
 ![Growth of Palestine](https://cdn.statcdn.com/Infographic/images/normal/20645.jpeg)
