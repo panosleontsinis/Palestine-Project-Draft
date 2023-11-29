@@ -10,9 +10,15 @@ My key source of inspiration emerged from the BBC News coverage online and other
 
 Users can follow the video guided by the narration. Comments section will create areas of discussion where the project leader can interact with the audiencde. Timestamps on Youtube could allow users to revisit areas of the video.
 
-# Aims  
+# Aims/Interactive aspects  
 
-The main aim of the project is to spread awareness about the Israel- Palestine conflict. Other benefits arise such as spreading accurate information on such a sensitive topic.
+The main aim of the project is to spread awareness about the Israel- Palestine conflict. Educating audiences within the younger generation (Z) through social media content is an efficient of material as the content produced is interactive and provides entertraining historical data. Within such a sensitive period of war and conflict it is important to explore Palestinian people's struggles as well as shed lights on humanitarian concerns. Other benefits arise such as spreading accurate information on such a sensitive topic.
+
+Interactive aspects of my project vary from:
+1.Timestamps within video - allows users to enjoy a customized/tailored experience whereby they can filter out content they may find sensitive/less intrested
+2.Annotation
+3.Comments section - audiences can share their opinions of the video and create further areas of discussion
+4.Social media intergrated
 
 # Aesthetics
 
