@@ -26,7 +26,6 @@ https://www.youtube.com/watch?v=sR0DsXH0bT4
 
 # Technology 
 
-I plan to allocate time and resources to editing and producing a first draft for the project.
 Platforms used:
 Premier Pro experience
 YouTube Studio
