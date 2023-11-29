@@ -6,10 +6,9 @@ This project revolves around exposing the inequalites and exploitation of Palest
 The key concept of this project is to gather visual data (videos and other types of footage) and reorganize it into a narrative informative video about the current injustices and chaos in Gaza.
 My key source of inspiration emerged from the BBC News coverage online and other news outlets broadcasts on the Israeli-Palestinian conflict.
 
-# Mechanics  
+# Narrative Pacing/Mechanics  
 
-Users can follow the video guided by the narration. Comments section will create areas of discussion where the project leader can interact with the audiencde. Timestamps on Youtube could allow users to revisit areas of the video.
-
+Users can follow the video guided by the narration. Comments section will create areas of discussion where the project leader can interact with the audiencde. 
 # Aims/Interactive aspects  
 
 The main aim of the project is to spread awareness about the Israel- Palestine conflict. Educating audiences within the younger generation (Z) through social media content is an efficient of material as the content produced is interactive and provides entertraining historical data. Within such a sensitive period of war and conflict it is important to explore Palestinian people's struggles as well as shed lights on humanitarian concerns. Other benefits arise such as spreading accurate information on such a sensitive topic.
@@ -22,7 +21,7 @@ Interactive aspects of my project vary from:
 
 3.Comments section - audiences can share their opinions of the video and create further areas of discussion
 
-4.Social media intergrated
+4.Social media intergrated - could generate international support through 
 
 # Aesthetics
 
@@ -36,6 +35,7 @@ Examples of similar video ideas:
 # Technology 
 
 Allocate time and resources editing and producing a first draft for the project.
+Platforms used:
 1. Premier Pro experience
 2. YouTube Studio
 
