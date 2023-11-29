@@ -1,44 +1,35 @@
 # Israel-Palestine Project
-This project revolves around exposing the inequalites and exploitation of Palestinian people's human rights and land over recent years.
-
+This project revolves around exposing the inequalities and exploitation of Palestinian people's human rights and land over recent years.
 # Theme  
 
-The key concept of this project is to gather visual data (videos and other types of footage) and reorganize it into a narrative informative video about the current injustices and chaos in Gaza.
-My key source of inspiration emerged from the BBC News coverage online and other news outlets broadcasts on the Israeli-Palestinian conflict.
+The key concept of this project is to gather visual data (videos and other types of footage) and reorganize it into a narrative informative video about the current injustices and chaos in Gaza. My key source of inspiration emerged from the BBC News coverage online and other news outlets broadcasts on the Israeli-Palestinian conflict.
 
 # Narrative Pacing/Mechanics  
 
-Users can follow the video guided by the smooth narration of the AI bot. Towards the end of the project, the tone of the AI voice will adjust based on how sensitive the material is. This would ultimately provide an entertaining flow.  Comments section will create areas of discussion where the project leader can interact with the audiencde. 
+Users can follow the video guided by the narration. The comments section will create areas of discussion where the project leader can interact with the audience.
 # Aims/Interactive aspects  
 
-The main aim of the project is to spread awareness about the Israel- Palestine conflict. Educating audiences within the younger generation (Z) through social media content is an efficient of material as the content produced is interactive and provides entertraining historical data. Within such a sensitive period of war and conflict it is important to explore Palestinian people's struggles as well as shed lights on humanitarian concerns. Other benefits arise such as spreading accurate information on such a sensitive topic.
-
+The main aim of the project is to spread awareness about the Israeli-Palestinian conflict. Educating audiences within the younger generation (Z) through social media content is an efficient material as the content produced is interactive and provides entertaining historical data. Within such a sensitive period of war and conflict, it is important to explore the Palestinian people's struggles as well as shed light on humanitarian concerns. Other benefits arise such as spreading accurate information on such a sensitive topic.
 Interactive aspects of my project vary from:
-
-1.Timestamps within video - allows users to enjoy a customized/tailored experience whereby they can filter out content they may find sensitive/less intrested
-
-2.Annotation
-
-3.Comments section - audiences can share their opinions of the video and create further areas of discussion
-
-4.Social media intergrated - could generate international support through 
+1. Timestamps within the video - allows users to enjoy a customized/tailored experience whereby they can filter out content they may find sensitive/less interested
+2. Annotation
+3. Comments section - audiences can share their opinions of the video and create further areas of discussion
+4. Social media integrated - could generate international support through
 
 # Aesthetics
-
-A Yotube Video should be produced narrating the led up to the Israeli-Palestine conflict up to the current date.
-
+A Youtube Video should be produced narrating the led-up to the Israeli-Palestine conflict up to the current date.
 Examples of similar video ideas:
-1. https://www.journeyman.tv/film/1505
-2. https://www.youtube.com/watch?v=iRYZjOuUnlU
-3. https://www.youtube.com/watch?v=9scGFj7zp5w
-4. https://www.youtube.com/watch?v=sR0DsXH0bT4
+https://www.journeyman.tv/film/1505
+https://www.youtube.com/watch?v=iRYZjOuUnlU
+https://www.youtube.com/watch?v=9scGFj7zp5w
+https://www.youtube.com/watch?v=sR0DsXH0bT4
 
 # Technology 
 
-My plan is to allocate time and resources editing and producing a first draft for the project.
-
+I plan to allocate time and resources to editing and producing a first draft for the project.
 Platforms used:
-
+Premier Pro experience
+YouTube Studio
 1. Premier Pro experience
 2. YouTube Studio
 
