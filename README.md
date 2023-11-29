@@ -40,7 +40,6 @@ Platforms used:
 1. Premier Pro experience
 2. YouTube Studio
 
-# Wireframes (Draft Material)
+# Wireframes (Research Material)
 ![Palestinians Expelled](https://github.com/panosleontsinis/interface-narratives1/assets/123083154/7965f4db-6233-4cd8-932e-32d6f62f9d6d)
-![20 years of talks](https://s3.amazonaws.com/VP2/visuals/en/d62fb949a6f490f27043bf6bc9111bae.jpg?2015)
-![Growth of Palestine](https://cdn.statcdn.com/Infographic/images/normal/20645.jpeg)
+
