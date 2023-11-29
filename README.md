@@ -8,7 +8,7 @@ My key source of inspiration emerged from the BBC News coverage online and other
 
 # Narrative Pacing/Mechanics  
 
-Users can follow the video guided by the narration. Comments section will create areas of discussion where the project leader can interact with the audiencde. 
+Users can follow the video guided by the smooth narration of the AI bot. Towards the end of the project, the tone of the AI voice will adjust based on how sensitive the material is. This would ultimately provide an entertaining flow.  Comments section will create areas of discussion where the project leader can interact with the audiencde. 
 # Aims/Interactive aspects  
 
 The main aim of the project is to spread awareness about the Israel- Palestine conflict. Educating audiences within the younger generation (Z) through social media content is an efficient of material as the content produced is interactive and provides entertraining historical data. Within such a sensitive period of war and conflict it is important to explore Palestinian people's struggles as well as shed lights on humanitarian concerns. Other benefits arise such as spreading accurate information on such a sensitive topic.
