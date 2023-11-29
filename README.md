@@ -27,8 +27,6 @@ https://www.youtube.com/watch?v=sR0DsXH0bT4
 # Technology 
 
 Platforms used:
-Premier Pro experience
-YouTube Studio
 1. Premier Pro experience
 2. YouTube Studio
 
