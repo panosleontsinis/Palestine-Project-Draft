@@ -35,8 +35,10 @@ Examples of similar video ideas:
 
 # Technology 
 
-Allocate time and resources editing and producing a first draft for the project.
+My plan is to allocate time and resources editing and producing a first draft for the project.
+
 Platforms used:
+
 1. Premier Pro experience
 2. YouTube Studio
 
