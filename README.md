@@ -5,8 +5,7 @@ This project revolves around exposing the inequalities and exploitation of Pales
 The key concept of this project is to gather visual data (videos and other types of footage) and reorganize it into a narrative informative video about the current injustices and chaos in Gaza. My key source of inspiration emerged from the BBC News coverage online and other news outlets broadcasts on the Israeli-Palestinian conflict.
 
 # Narrative Pacing/Mechanics  
-The pacing within the video has been 
-
+The pacing of the video is not yet adjusted. Different methods need to be implemented in order to keep users entertained and engaged with the content. The rythm of the AI voice can be adjusted using the Synthesys AI Studio software which I already have been gettting in grip with. Better transitions are also considered in order to create a more smooth video whereby it would add value to the overall product.
 # Aims/Interactive aspects  
 
 The main aim of the project is to spread awareness about the Israeli-Palestinian conflict. Educating audiences within the younger generation (Z) through social media content is an efficient material as the content produced is interactive and provides entertaining historical data. Within such a sensitive period of war and conflict, it is important to explore the Palestinian people's struggles as well as shed light on humanitarian concerns. Other benefits arise such as spreading accurate information on such a sensitive topic.
@@ -19,10 +18,11 @@ Interactive aspects of my project vary from:
 # Aesthetics
 A Youtube Video should be produced narrating the led-up to the Israeli-Palestine conflict up to the current date.
 Examples of similar video ideas:
-1.https://www.journeyman.tv/film/1505
-2.https://www.youtube.com/watch?v=iRYZjOuUnlU
-3.https://www.youtube.com/watch?v=9scGFj7zp5w
-4.https://www.youtube.com/watch?v=sR0DsXH0bT4
+
+1. https://www.journeyman.tv/film/1505
+2. https://www.youtube.com/watch?v=iRYZjOuUnlU
+3. https://www.youtube.com/watch?v=9scGFj7zp5w
+4. https://www.youtube.com/watch?v=sR0DsXH0bT4
 
 # Technology 
 
