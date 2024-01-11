@@ -5,7 +5,7 @@ This project revolves around the issues faced when trying to produce a news cove
 Although the theme of my project appears very simplistic, it includes a voiceover, other news interfaces,researched websites relevant to the production and distribution of news coverage data. The narrative pacing within the video is evenly paced in order to keep the audience engaged as well as providing time for the user to absorb the content. Despite the fact that the video explores digital interfaces, examples such as analogue are included to provide alternative ideas of how interfaces operated pre digital era.
 
 # Aims/Interactive aspects  
-Explores how digital interfaces produce, mediate, and distribute knowledge (images, text, sound, facts) about the Palestinian/Israeli conflict. These interfaces include (this is up to you - explain exactly what each is/does) video editing software, automated AI speech generation, social media platform.  Pay particular attention to the interfaces you use and their specific components (edit buttons, cut/paste)
+I focused on the key aspects in which digital interfaces produce, mediate, and distribute knowledge. I incorporated screen recording footage of Editing Pro to demonstrate how images, text, sound, facts can be displayed on the online digital interfaces. Included information regarding how the Palestinian/Israeli conflict is covered, exploring aspects such as misninformation,bias,etc. I incorporated features that i previously used to create the project automated such as social media platforms and expained the use of AI voice recognition. Alternative interfaces were also explored as a means of comparing and ciriticising online media coverage on the topic.
 
 Interactive aspects of my project vary from:
 - Comments section - audiences can share their opinions of the video and create further areas of discussion
@@ -33,8 +33,9 @@ Platforms used:
 1. Premier Pro experience
 2. YouTube Studio
 3. Voice Memos - voice recording app
+4. YouTube - for gathering footage
 
-# Wireframes (Research Material)
+# Wireframes 
 ![Editing1][(https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png?raw=true)]
 
 
