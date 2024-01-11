@@ -34,5 +34,6 @@ Platforms used:
 3. Voice Memos - voice recording app
 
 # Wireframes (Research Material)
-![Palestinians Expelled]((https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png))
-
+![Editing1]((https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png))
+![Editing2]((https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png))
+![Editing3]((https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png))
