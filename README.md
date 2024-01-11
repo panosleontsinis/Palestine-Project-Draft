@@ -2,7 +2,7 @@
 This project revolves around the issues faced when trying to produce a news coverage video on the YouTube interface. Providing my personal opinion on how news videos should be broadcasted as well as exploring other similar digital intefaces and their approach on covering the Israel-Palestine conflict
 
 # Theme  
-Although the theme of my project appears very simplistic, it includes a voiceover, other news interfaces,researched websites relevant to the production and distribution of news coverage data. the narrative pacing within the video is mediumly paced in order to keep the audience engaged as well as providing time for the user to absorb the content.
+Although the theme of my project appears very simplistic, it includes a voiceover, other news interfaces,researched websites relevant to the production and distribution of news coverage data. the narrative pacing within the video is evenly paced in order to keep the audience engaged as well as providing time for the user to absorb the content.
 
 # Aims/Interactive aspects  
 Explores how digital interfaces produce, mediate, and distribute knowledge (images, text, sound, facts) about the Palestinian/Israeli conflict. These interfaces include (this is up to you - explain exactly what each is/does) video editing software, automated AI speech generation, social media platform.  Pay particular attention to the interfaces you use and their specific components (edit buttons, cut/paste)
