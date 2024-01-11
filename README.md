@@ -17,8 +17,10 @@ Interactive aspects of my project vary from:
 # Aesthetics
 A Youtube Video should be produced narrating the led-up to the Israeli-Palestine conflict up to the current date.
 
-Youtube:
-(https://www.youtube.com/@israelpalestineprojectt](https://www.youtube.com/watch?v=y6AEqDJXvlE)
+Youtube channel:
+https://www.youtube.com/@israelpalestineprojectt
+Youtube video:
+https://www.youtube.com/watch?v=y6AEqDJXvlE
 
 References
 1. YoHa - http://yoha.co.uk
