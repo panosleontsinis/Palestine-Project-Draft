@@ -2,12 +2,10 @@
 This project revolves around the issues faced when trying to produce a news coverage video on the YouTube interface. Providing my personal opinion on how news videos should be broadcasted as well as exploring other similar digital intefaces and their approach on covering the Israel-Palestine conflict
 
 # Theme  
+Although the theme of my project appears very simplistic, it includes a voiceover, other news interfaces,researched websites relevant to the production and distribution of news coverage data.
 
-The key concept of this project is to gather visual data (videos and other types of footage) and reorganize it into a narrative informative video about the current injustices and chaos in Gaza. My key source of inspiration emerged from the BBC News coverage online and other news outlets broadcasts on the Israeli-Palestinian conflict.
-
-# Narrative Pacing/Mechanics  
-The pacing of the video is not yet adjusted. Different methods need to be implemented in order to keep users entertained and engaged with the content. The rythm of the AI voice can be adjusted using the Synthesys AI Studio software which I already have been gettting in grip with. Better transitions are also considered in order to create a more smooth video whereby it would add value to the overall product. Despite the fact that the video is not yet sunchronised with the audio. I believe the the prototype provides a clear future preception of how the project can conclude
 # Aims/Interactive aspects  
+Explores how digital interfaces produce, mediate, and distribute knowledge (images, text, sound, facts) about the Palestinian/Israeli conflict. These interfaces include (this is up to you - explain exactly what each is/does) video editing software, automated AI speech generation, social media platform.  Pay particular attention to the interfaces you use and their specific components (edit buttons, cut/paste)
 
 Interactive aspects of my project vary from:
 - Comments section - audiences can share their opinions of the video and create further areas of discussion
@@ -15,10 +13,11 @@ Interactive aspects of my project vary from:
 
 
 # Aesthetics
-A Youtube Video should be produced narrating the led-up to the Israeli-Palestine conflict up to the current date.
+The YouTube video produces provides a monotone throughout in order to maintain the seriousness and highlight the significance of the content covered. the target audience would prefer a relaxing and simplistic aesthetic throughout the video.
 
 Youtube channel:
 https://www.youtube.com/@israelpalestineprojectt
+
 Youtube video:
 https://www.youtube.com/watch?v=y6AEqDJXvlE
 
