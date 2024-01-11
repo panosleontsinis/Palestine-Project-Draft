@@ -1,11 +1,11 @@
 # Israel-Palestine Project
-This project revolves around the issues faced when trying to produce a news coverage video on the YouTube interface. Providing my personal opinion on how news videos should be broadcasted as well as exploring other similar digital intefaces and their approach on covering the Israel-Palestine conflict
+This project revolves around the issues faced when trying to produce a news coverage video on the YouTube interface. Providing my personal opinion on how news videos should be broadcasted as well as exploring other similar digital interfaces and their approach to covering the Israel-Palestine conflict.
 
 # Theme  
-Although the theme of my project appears very simplistic, it includes a voiceover, other news interfaces,researched websites relevant to the production and distribution of news coverage data. The narrative pacing within the video is evenly paced in order to keep the audience engaged as well as providing time for the user to absorb the content. Despite the fact that the video explores digital interfaces, examples such as analogue are included to provide alternative ideas of how interfaces operated pre digital era.
+Although the theme of my project appears very simplistic, it includes a voiceover, other news interfaces, and researched websites relevant to the production and distribution of news coverage data. The narrative pacing within the video is evenly paced to keep the audience engaged as well as provide time for the user to absorb the content. Even though the video explores digital interfaces, examples such as analog are included to provide alternative ideas of how interfaces operated in the pre-digital era.
 
 # Aims/Interactive aspects  
-I focused on the key aspects in which digital interfaces produce, mediate, and distribute knowledge. I incorporated screen recording footage of Editing Pro to demonstrate how images, text, sound, facts can be displayed on the online digital interfaces. Included information regarding how the Palestinian/Israeli conflict is covered, exploring aspects such as misninformation,bias,etc. I incorporated features that i previously used to create the project automated such as social media platforms and expained the use of AI voice recognition. Alternative interfaces were also explored as a means of comparing and ciriticising online media coverage on the topic. Challenges covered such as fact-checking, media production, and distribution were also covered as well as methods to overcome these issues.
+I focused on the key aspects in which digital interfaces produce, mediate, and distribute knowledge. I incorporated screen recording footage of Editing Pro to demonstrate how images, text, sound, and facts can be displayed on online digital interfaces. Included information regarding how the Palestinian/Israeli conflict is covered, exploring aspects such as misinformation, bias, etc. I incorporated features that I previously used to create the project automated such as social media platforms and explained the use of AI voice recognition. Alternative interfaces were also explored as a means of comparing and criticising online media coverage on the topic. Challenges such as fact-checking, media production, and distribution were also covered as well as methods to overcome these issues.
 
 Interactive aspects of my project vary from:
 - Comments section - audiences can share their opinions of the video and create further areas of discussion
@@ -13,7 +13,7 @@ Interactive aspects of my project vary from:
 
 
 # Aesthetics
-The YouTube video produces provides a monotone throughout in order to maintain the seriousness and highlight the significance of the content covered. the target audience would prefer a relaxing and simplistic aesthetic throughout the video.
+The YouTube video provides a monotone throughout to maintain the seriousness and highlight the significance of the content covered. the target audience would prefer a relaxing and simplistic aesthetic throughout the video.
 
 Youtube channel:
 https://www.youtube.com/@israelpalestineprojectt
@@ -46,4 +46,4 @@ Platforms used:
 ![Editing3](https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.55.10.png?raw=true)
 
 
-![Editing4](https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.55.10.png?raw=true)
+![Editing4](https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2018.04.44.png?raw=true)
