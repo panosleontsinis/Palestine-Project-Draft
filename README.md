@@ -36,7 +36,7 @@ Platforms used:
 4. YouTube - for gathering footage
 
 # Wireframes 
-![Editing1][(https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png?raw=true)]
+![Editing1](https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png?raw=true)
 
 
 ![Editing2]((https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png))
