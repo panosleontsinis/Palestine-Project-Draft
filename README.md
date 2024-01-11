@@ -1,5 +1,6 @@
 # Israel-Palestine Project
-This project revolves around exposing the inequalities and exploitation of Palestinian people's human rights and land over recent years.
+This project revolves around the issues faced when trying to produce a news coverage video on the YouTube interface. Providing my personal opinion on how news videos should be broadcasted as well as exploring other similar digital intefaces and their approach on covering the Israel-Palestine conflict
+
 # Theme  
 
 The key concept of this project is to gather visual data (videos and other types of footage) and reorganize it into a narrative informative video about the current injustices and chaos in Gaza. My key source of inspiration emerged from the BBC News coverage online and other news outlets broadcasts on the Israeli-Palestinian conflict.
@@ -13,7 +14,7 @@ Interactive aspects of my project vary from:
 1. Timestamps within the video - allows users to enjoy a customized/tailored experience whereby they can filter out content they may find sensitive/less interested
 2. Annotation
 3. Comments section - audiences can share their opinions of the video and create further areas of discussion
-4. Social media integrated - could generate international support through
+4. Social media integrated - could generate international support through the instagram page
 
 # Aesthetics
 A Youtube Video should be produced narrating the led-up to the Israeli-Palestine conflict up to the current date.
