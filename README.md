@@ -20,16 +20,18 @@ Interactive aspects of my project vary from:
 A Youtube Video should be produced narrating the led-up to the Israeli-Palestine conflict up to the current date.
 Examples of similar video ideas:
 
-1. https://www.journeyman.tv/film/1505
-2. https://www.youtube.com/watch?v=iRYZjOuUnlU
-3. https://www.youtube.com/watch?v=9scGFj7zp5w
-4. https://www.youtube.com/watch?v=sR0DsXH0bT4
+References
+1. YoHa - http://yoha.co.uk
+2. Forensic Architecture - https://forensic-architecture.org
+3. BBC
+4. FactCheck.org
 
 # Technology 
 
 Platforms used:
 1. Premier Pro experience
 2. YouTube Studio
+3. Voice Memos - voice recording app
 
 # Wireframes (Research Material)
 ![Palestinians Expelled](https://github.com/panosleontsinis/interface-narratives1/assets/123083154/7965f4db-6233-4cd8-932e-32d6f62f9d6d)
