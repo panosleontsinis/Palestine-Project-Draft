@@ -30,7 +30,7 @@ References
 # Technology 
 
 Platforms used:
-1. Premier Pro experience
+1. Premier Pro editing software
 2. YouTube Studio
 3. Voice Memos - voice recording app
 4. YouTube - for gathering footage
@@ -44,5 +44,6 @@ Platforms used:
 
 
 ![Editing3](https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.55.10.png?raw=true)
+
 
 ![Editing4](https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.55.10.png?raw=true)
