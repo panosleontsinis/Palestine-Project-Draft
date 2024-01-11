@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=y6AEqDJXvlE
 References
 1. YoHa - http://yoha.co.uk
 2. Forensic Architecture - https://forensic-architecture.org
-3. BBC
+3. BBC - bbc.co.uk
 4. FactCheck.org
 
 # Technology 
@@ -35,7 +35,7 @@ Platforms used:
 3. Voice Memos - voice recording app
 
 # Wireframes (Research Material)
-![Editing1] [(https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png?raw=true)]
+![Editing1][(https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png?raw=true)]
 
 
 ![Editing2]((https://github.com/panosleontsinis/Palestine-Project-Draft/blob/main/Screenshot%202024-01-11%20at%2016.54.27.png))
